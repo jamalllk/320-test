@@ -1,2 +1,2 @@
 # 320-test
-Test repository for 320
+Repository for git setup, Jamal Karimli.
